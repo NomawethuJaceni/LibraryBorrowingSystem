@@ -1,0 +1,10 @@
+﻿body {
+    background-image: url(Scripts/Images/backgroundF.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    width:70%;
+    height:70%;
+
+    color:black;
+}
